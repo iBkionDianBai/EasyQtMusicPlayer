@@ -3,7 +3,5 @@
 
 ## 环境
 ***
-** Qt 6.7.2 **
-** VirtualStudio 2022 with Qt plugin **
-
-## 
+**Qt 6.7.2**
+**VirtualStudio 2022 with Qt plugin**
