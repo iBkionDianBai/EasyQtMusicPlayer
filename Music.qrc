@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>assets/extended (2).png</file>
+        <file>assets/extended.png</file>
+        <file>assets/former.png</file>
+        <file>assets/liked.png</file>
+        <file>assets/next.png</file>
+        <file>assets/pause.png</file>
+        <file>assets/play.png</file>
+        <file>assets/play2.png</file>
+        <file>assets/playuse.png</file>
+        <file>assets/dir.png</file>
+        <file>assets/setting.png</file>
+        <file>assets/search.png</file>
+        <file>assets/rank.png</file>
+        <file>assets/player.ico</file>
+    </qresource>
+    <qresource prefix="/Qss">
+        <file>Theme1.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,40 @@
+*{
+	background-color:#A8A8A0;
+	color: #F5F5E9;	
+}	
+
+QViewList{
+	background-color:#CACAC0;
+}
+
+QLineEdit{
+	border:1px solid #64645F;
+}
+
+QPushButton{
+	border:none;
+}
+
+QPushButton:hover{
+	background-color: #868680;
+}
+
+QPushButton:pressed{
+	background-color: #64645F;
+}
+
+QToolButton {
+	border: none;
+}
+
+QToolButton:hover {
+	background-color: #868680;
+}
+
+QToolButton:pressed {
+	background-color: #64645F;
+}
+
+QMenu{
+        border:1px solid #898F9B;
+}
