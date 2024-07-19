@@ -18,4 +18,4 @@
 6.其他未知问题
 
 ## 软件截图
-![image]()
+![image](/assets/images/ScreenShoot.png)
